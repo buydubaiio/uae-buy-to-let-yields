@@ -1,6 +1,6 @@
 # UAE buy-to-let yields in pounds, for UK investors
 
-Rents, prices and yields for **25 Dubai and Abu Dhabi areas**, in AED and GBP, built for UK buy-to-let investors. Snapshot of November 2026: sales registered to 22 Nov 2026, leases to 23 Nov 2026, GBP at AED 4.88 (ECB reference rate, 28 Oct 2026). Published by **[BUY UAE](https://buytoletuae.co.uk/)**, the UAE property guide for UK buy-to-let investors.
+Rents, prices and yields for **25 Dubai areas**, in AED and GBP, built for UK buy-to-let investors. Snapshot of November 2026: sales registered to 22 Nov 2026, leases to 23 Nov 2026, GBP at AED 4.88 (ECB reference rate, 28 Oct 2026). Published by **[BUY UAE](https://buytoletuae.co.uk/)**, the UAE property guide for UK buy-to-let investors.
 
 - Area-by-area yields after costs, in pounds: **[buytoletuae.co.uk](https://buytoletuae.co.uk/)**
 - Dubai sale prices from every registered sale: **[BUY DUBAI](https://buydubai.io/)**
@@ -23,7 +23,7 @@ Rents, prices and yields for **25 Dubai and Abu Dhabi areas**, in AED and GBP, b
 
 ## Method
 
-- Sales and rents: Dubai Land Department and Abu Dhabi registered transactions and leases.
+- Sales and rents: Dubai Land Department registered transactions and Ejari leases. Abu Dhabi is covered on the site.
 - Net yield is on cash invested (price + buying costs), before UK tax. UK tax depends on your own position: see [buytoletuae.co.uk](https://buytoletuae.co.uk/).
 - Past returns are not a forecast. This is data, not financial advice.
 
